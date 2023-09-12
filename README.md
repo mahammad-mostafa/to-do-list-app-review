@@ -2,7 +2,7 @@
 
 <!-- TITLE -->
 
-# 🏷️ To Do List App Review
+# 🏷️ To Do List Review
 
 This is an exercise practised on the fourth project in the second module in the **Microverse** program.
 <br/>
